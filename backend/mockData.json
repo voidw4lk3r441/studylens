@@ -1,0 +1,21 @@
+{
+  "studentName": "Arka",
+  "testName": "JEE Mock Test - Physics (Kinematics & Dynamics)",
+  "metrics": {
+    "totalQuestions": 30,
+    "incorrectAnswers": 8,
+    "accuracy": 73.3,
+    "predictedScoreImprovement": 24
+  },
+  "mistakeDistribution": [
+    { "type": "Silly Mistake", "count": 4, "description": "Arithmetic sign errors and misreading coefficients." },
+    { "type": "Conceptual Error", "count": 2, "description": "Misapplying the work-energy theorem in non-conservative fields." },
+    { "type": "Time Pressure Rushing", "count": 2, "description": "Skipping intermediate steps in multi-step integration." }
+  ],
+  "topicWeaknesses": [
+    { "topic": "Projectile Motion", "score": 85, "status": "Strong" },
+    { "topic": "Relative Velocity", "score": 40, "status": "Critical Weakness" },
+    { "topic": "Newton's Laws (With Friction)", "score": 62, "status": "Needs Review" }
+  ],
+  "behavioralInsight": "Your accuracy drops by 35% on questions attempted after the 90-minute mark, strongly indicating mental fatigue. Furthermore, 50% of your lost marks come from simple sign inversion errors during integration steps."
+}
